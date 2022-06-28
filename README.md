@@ -19,8 +19,6 @@ to the provided design templates.
 
 ![](./images/Screenshot.png)
 
-## My process
-
 ### Built with
 
 - HTML
